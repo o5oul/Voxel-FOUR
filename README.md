@@ -6,6 +6,7 @@ Built for HackClub Stardance in xxhrs.
 Notes:
 - Case is 3D-printable, purchasing from a reputable 3D printing shop is highly reccomended. PLA, ABS or Resin printing should work.
 - PCB can be purchased from JLPCB or PCBway, all parts will be listed + sample purchase links will be given.
+- Switches should be PCB mounted, as there is no plate to hold the switches in place.
 
 Build instructions:
 - Begin by inserting five (5) M2 screws into the base, then connecting them to the M2 standoffs through the other end.

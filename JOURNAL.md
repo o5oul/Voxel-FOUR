@@ -16,7 +16,7 @@
 
 1. [2026-10-08 – Worked on PCB, fixed some issues later on, like adding screw holes, etc.](#2026-10-08-worked-on-pcb-fixed-some-issues-later-on-like-add)
 2. [2026-10-08 – Begun to work on the case, exported the PCB as an .stl file, which I imported into Fusion 360 to get and accurate model to base the case on.](#2026-10-08-begun-to-work-on-the-case-exported-the-pcb-as-an-)
-3. [2026-10-08 – Work session](#2026-10-08-work-session)
+3. [2026-10-08 – Continued to work on the case, made some final adjustments, added some 3D models of switches, esp32, etc. to get a better visual representation of the product. Also increased the hole for the USB-C po](#2026-10-08-continued-to-work-on-the-case-made-some-final-adj)
 
 ## Design
 
@@ -36,8 +36,10 @@ Begun to work on the case, exported the PCB as an .stl file, which I imported in
 
 [Timelapse](https://lookout.hackclub.com/api/media/58feafe7-b281-46ee-92e1-a3a3da3d96a8/video.mp4)
 
-### 2026-10-08 – Work session
+### 2026-10-08 – Continued to work on the case, made some final adjustments, added some 3D models of switches, esp32, etc. to get a better visual representation of the product. Also increased the hole for the USB-C po
 
 **0.38h**
+
+Continued to work on the case, made some final adjustments, added some 3D models of switches, esp32, etc. to get a better visual representation of the product. Also increased the hole for the USB-C port to allow more cables to fit.
 
 [Timelapse](https://lookout.hackclub.com/api/media/dd264928-c760-40a7-b76d-244932c5c45f/video.mp4)

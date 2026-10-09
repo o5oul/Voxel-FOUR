@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.8h | 2 |
+| Week 1 | Tier 1 | 3.8h | 2 |
 
 ## Contents
 
@@ -21,7 +21,7 @@
 
 ### 2026-10-08 – Worked on PCB, fixed some issues later on, like adding screw holes, etc.
 
-**2.97h**
+**1.97h**
 
 Worked on PCB, fixed some issues later on, like adding screw holes, etc.
 

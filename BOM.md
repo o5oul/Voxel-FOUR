@@ -18,7 +18,7 @@
 | [Mill-Max hotswap sockets](https://shopee.com.my/-10-pieces-Hotswap-Socket-PCB-rivet-Turn-solder-circuit-into-Hotswap-circuit-for-mechanical-keyboard-i.1663832391.51200299904?xptdk=c8786eec-bfa9-4e2a-93ef-9aa935954c5d) | Allow the switches to be hot-swapped into the sockets, rather than needing to be unsoldered/soldered each time they need to be changed. | 1 | $2.52 | $2.52 | [Shopee Malaysia](https://shopee.com.my/-10-pieces-Hotswap-Socket-PCB-rivet-Turn-solder-circuit-into-Hotswap-circuit-for-mechanical-keyboard-i.1663832391.51200299904?xptdk=c8786eec-bfa9-4e2a-93ef-9aa935954c5d) |
 | [Seeed Studio XIAO ESP32 C3](https://shopee.com.my/Original-authentic-Seeed-Studio-XIAO-ESP32C3-xiao-esp32-c3-thumb-WIFI-development-board-i.542060608.25985797324?extraParams=%7B%22display_model_id%22%3A223198452291%2C%22model_selection_logic%22%3A3%7D) | ESP32 MCU, controls the keyboard. | 1 | $9.78 | $9.78 | [Shopee Malaysia](https://shopee.com.my/Original-authentic-Seeed-Studio-XIAO-ESP32C3-xiao-esp32-c3-thumb-WIFI-development-board-i.542060608.25985797324?extraParams=%7B%22display_model_id%22%3A223198452291%2C%22model_selection_logic%22%3A3%7D) |
 | **Parts subtotal** | — | — | — | **$15.25** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$15.25** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$20.25** | — |
 
-$14.75 left of the tier's funding.
+$9.75 left of the tier's funding.

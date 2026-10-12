@@ -26,8 +26,9 @@ Built for Hack Club Half Life.
 - [Break-away Male pin headers](https://shopee.com.my/2.54mm-Pin-Header-Female-Male-Single-Row-Header-40P-Connector-Black-White-Red-Yellow-Green-Blue-i.1165814930.24876384005?xptdk=10d7489f-07a1-4f78-a3af-0dc13cd74cc3)
 - [*Optional* 4 x V2 Keysporon 0.3mm Switch Flims](https://shopee.com.my/Switch-Film-for-customize-Mechanical-Keyboard-Switches-i.1380285245.43151253319?xptdk=cad9a151-bc72-4aa7-80a2-bf2111954767)
 - [Mill-Max hotswap sockets 1.2mm, 3 x 30pcs](https://shopee.com.my/-10-pieces-Hotswap-Socket-PCB-rivet-Turn-solder-circuit-into-Hotswap-circuit-for-mechanical-keyboard-i.1663832391.51200299904?xptdk=c8786eec-bfa9-4e2a-93ef-9aa935954c5d)
-- [SEEED XIAO ESP32-C3](https://shopee.com.my/Original-authentic-Seeed-Studio-XIAO-ESP32C3-xiao-esp32-c3-thumb-WIFI-development-board-i.542060608.25985797324?extraParams=%7B%22display_model_id%22%3A223198452291%2C%22model_selection_logic%22%3A3%7D)
+- [SEEED XIAO ESP32-C3](https://shopee.com.my/Original-authentic-Seeed-Studio-XIAO-ESP32C3-xiahttps://shopee.com.my/-Luminense-PCB-Standoff-Brass-Standoff-M2-M3-120-pcs-300-pcs-set-i.63040732.15203389154?xptdk=49b2e936-5e74-4f0d-bcfd-47e3fcb39e03o-esp32-c3-thumb-WIFI-development-board-i.542060608.25985797324?extraParams=%7B%22display_model_id%22%3A223198452291%2C%22model_selection_logic%22%3A3%7D)
 - [5 x Gummy O-Rings](https://shopee.com.my/500pcs-Flat-Washer-Gasket-Set-M2-M2.5-M3-M4-M5-M6-M8-Plastic-Sealing-O-rings-Plane-Spacer-Assortment-Kit-Fastener-i.189747092.23569025114?xptdk=b16dd1a7-6ccd-48fc-b045-5951e2fde2c4)
+- [M2 Brass Standoffs]()
 
 ## **Recommended PCB Settings (JLCPCB):**
 [JLCPCB Website](jlcpcb.com)

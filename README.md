@@ -28,7 +28,7 @@ Built for Hack Club Half Life.
 - [Mill-Max hotswap sockets 1.2mm, 3 x 30pcs](https://shopee.com.my/-10-pieces-Hotswap-Socket-PCB-rivet-Turn-solder-circuit-into-Hotswap-circuit-for-mechanical-keyboard-i.1663832391.51200299904?xptdk=c8786eec-bfa9-4e2a-93ef-9aa935954c5d)
 - [SEEED XIAO ESP32-C3](https://shopee.com.my/Original-authentic-Seeed-Studio-XIAO-ESP32C3-xiahttps://shopee.com.my/-Luminense-PCB-Standoff-Brass-Standoff-M2-M3-120-pcs-300-pcs-set-i.63040732.15203389154?xptdk=49b2e936-5e74-4f0d-bcfd-47e3fcb39e03o-esp32-c3-thumb-WIFI-development-board-i.542060608.25985797324?extraParams=%7B%22display_model_id%22%3A223198452291%2C%22model_selection_logic%22%3A3%7D)
 - [5 x Gummy O-Rings](https://shopee.com.my/500pcs-Flat-Washer-Gasket-Set-M2-M2.5-M3-M4-M5-M6-M8-Plastic-Sealing-O-rings-Plane-Spacer-Assortment-Kit-Fastener-i.189747092.23569025114?xptdk=b16dd1a7-6ccd-48fc-b045-5951e2fde2c4)
-- [M2 Brass Standoffs]()
+- [M2 Brass Standoffs](https://shopee.com.my/-Luminense-PCB-Standoff-Brass-Standoff-M2-M3-120-pcs-300-pcs-set-i.63040732.15203389154?xptdk=c7b95211-1365-4004-b025-c1b6e75623bb)
 
 ## **Recommended PCB Settings (JLCPCB):**
 [JLCPCB Website](jlcpcb.com)
@@ -41,7 +41,7 @@ Built for Hack Club Half Life.
 - PCB Thickness: 1.6mm
 - PCB Color: Black (Can be changed based on preference)
 - Silkscreen: White
-- Material Type: FR$ TG135
+- Material Type: FR4 TG135
 - Surface Finish: HASL (with lead)
 
 ## **Advanced:**

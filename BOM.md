@@ -18,8 +18,9 @@
 | [Mill-Max hotswap sockets](https://shopee.com.my/-10-pieces-Hotswap-Socket-PCB-rivet-Turn-solder-circuit-into-Hotswap-circuit-for-mechanical-keyboard-i.1663832391.51200299904?xptdk=c8786eec-bfa9-4e2a-93ef-9aa935954c5d) | Allow the switches to be hot-swapped into the sockets, rather than needing to be unsoldered/soldered each time they need to be changed. | 1 | $2.52 | $2.52 | [Shopee Malaysia](https://shopee.com.my/-10-pieces-Hotswap-Socket-PCB-rivet-Turn-solder-circuit-into-Hotswap-circuit-for-mechanical-keyboard-i.1663832391.51200299904?xptdk=c8786eec-bfa9-4e2a-93ef-9aa935954c5d) |
 | [Seeed Studio XIAO ESP32 C3](https://shopee.com.my/Original-authentic-Seeed-Studio-XIAO-ESP32C3-xiao-esp32-c3-thumb-WIFI-development-board-i.542060608.25985797324?extraParams=%7B%22display_model_id%22%3A223198452291%2C%22model_selection_logic%22%3A3%7D) | ESP32 MCU, controls the keyboard. | 1 | $9.78 | $9.78 | [Shopee Malaysia](https://shopee.com.my/Original-authentic-Seeed-Studio-XIAO-ESP32C3-xiao-esp32-c3-thumb-WIFI-development-board-i.542060608.25985797324?extraParams=%7B%22display_model_id%22%3A223198452291%2C%22model_selection_logic%22%3A3%7D) |
 | [Gummy O-Rings](https://shopee.com.my/500pcs-Flat-Washer-Gasket-Set-M2-M2.5-M3-M4-M5-M6-M8-Plastic-Sealing-O-rings-Plane-Spacer-Assortment-Kit-Fastener-i.189747092.23569025114?xptdk=b16dd1a7-6ccd-48fc-b045-5951e2fde2c4) | Protection for the contact between the PCB and the standoffs. | 1 | $2.13 | $2.13 | [Shopee Malaysia](https://shopee.com.my/500pcs-Flat-Washer-Gasket-Set-M2-M2.5-M3-M4-M5-M6-M8-Plastic-Sealing-O-rings-Plane-Spacer-Assortment-Kit-Fastener-i.189747092.23569025114?xptdk=b16dd1a7-6ccd-48fc-b045-5951e2fde2c4) |
+| [Brass Standoffs](https://shopee.com.my/-Luminense-PCB-Standoff-Brass-Standoff-M2-M3-120-pcs-300-pcs-set-i.63040732.15203389154?xptdk=c7b95211-1365-4004-b025-c1b6e75623bb) | Standoffs for the PCB | 1 | $5.00 | $5.00 | [Shopee Malaysia](https://shopee.com.my/-Luminense-PCB-Standoff-Brass-Standoff-M2-M3-120-pcs-300-pcs-set-i.63040732.15203389154?xptdk=c7b95211-1365-4004-b025-c1b6e75623bb) |
 | **Parts subtotal** | — | — | — | **$17.38** | — |
 | **Tax & shipping** | — | — | — | **$5.00** | — |
-| **Total** | — | — | — | **$22.38** | — |
+| **Total** | — | — | — | **$27.38** | — |
 
-$7.62 left of the tier's funding.
+$2.62 left of the tier's funding.
